@@ -1,2 +1,2 @@
-# Temperature-Counter
+# Temperature-Control-App
 Built using ReactJs hooks
